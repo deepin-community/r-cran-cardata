@@ -1,0 +1,60 @@
+r-cran-cardata (3.0.4-1) unstable; urgency=medium
+
+  * New upstream release (renamed from 3.0-4)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 28 May 2020 12:09:41 -0500
+
+r-cran-cardata (3.0.3-2) unstable; urgency=medium
+
+  * Rebuilt for r-4.0 transition
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 15 May 2020 21:16:35 -0500
+
+r-cran-cardata (3.0.3-1) unstable; urgency=medium
+
+  * New upstream release (renamed from 3.0-3)
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 20 Nov 2019 20:46:41 -0600
+
+r-cran-cardata (3.0.2-1) unstable; urgency=medium
+
+  * New upstream release (renamed from 3.0-2)
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 27 Jan 2019 12:01:45 -0600
+
+r-cran-cardata (3.0.1-2) unstable; urgency=medium
+
+  * Rebuilding for R 3.5.0 transition
+  
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Build-Depends: to 'debhelper (>= 10)'
+  * debian/control: Set Standards-Version: to current version 
+  * debian/control: Add Vcs-Browser: and Vcs-Git:
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 02 Jun 2018 10:15:09 -0500
+
+r-cran-cardata (3.0.1-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+  * debian/control: Switch from cdbs to dh-r
+  * debian/rules: Idem
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 28 Mar 2018 19:50:43 -0500
+
+r-cran-cardata (3.0.0-1) unstable; urgency=low
+
+  * Initial Debian release 				(Closes: #878957)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 17 Oct 2017 21:42:22 -0500

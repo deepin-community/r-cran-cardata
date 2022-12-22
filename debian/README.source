@@ -1,0 +1,230 @@
+
+Explanation for binary files inside source package according to
+
+  http://lists.debian.org/debian-devel/2013/09/msg00332.html
+
+Files: data/Adler.rda
+Documentation: man/Adler.Rd
+  -> Experimenter Expectations
+
+Files: data/AMSsurvey.rda
+Documentation: man/AMSsurvey.Rd
+  -> American Math Society Survey Data
+
+Files: data/Angell.rda
+Documentation: man/Angell.Rd
+  -> Moral Integration of American Cities
+
+Files: data/Anscombe.rda
+Documentation: man/Anscombe.Rd
+  -> U. S. State Public-School Expenditures
+
+Files: data/Arrests.rda
+Documentation: man/Arrests.Rd
+  -> Arrests for Marijuana Possession
+
+Files: data/Baumann.rda
+Documentation: man/Baumann.Rd
+  -> Methods of Teaching Reading Comprehension
+
+Files: data/BEPS.rda
+Documentation: man/BEPS.Rd
+  -> British Election Panel Study
+
+Files: data/Bfox.rda
+Documentation: man/Bfox.Rd
+  -> Canadian Women's Labour-Force Participation
+
+Files: data/Blackmore.rda
+Documentation: man/Blackmore.Rd
+  -> Exercise Histories of Eating-Disordered and Control Subjects
+
+Files: data/Burt.rda
+Documentation: man/Burt.Rd
+  -> Fraudulent Data on IQs of Twins Raised Apart
+
+Files: data/CanPop.rda
+Documentation: man/CanPop.Rd
+  -> Canadian Population Data
+
+Files: data/Chile.rda
+Documentation: man/Chile.Rd
+  -> Voting Intentions in the 1988 Chilean Plebiscite
+
+Files: data/Chirot.rda
+Documentation: man/Chirot.Rd
+  -> The 1907 Romanian Peasant Rebellion
+
+Files: data/Cowles.rda
+Documentation: man/Cowles.Rd
+  -> Cowles and Davis's Data on Volunteering
+
+Files: data/Davis.rda
+Documentation: man/Davis.Rd
+  -> Self-Reports of Height and Weight
+
+Files: data/DavisThin.rda
+Documentation: man/DavisThin.Rd
+  -> Davis's Data on Drive for Thinness
+
+Files: data/Depredations.rda
+man/Depredations.Rd
+  -> Minnesota Wolf Depredation Data
+
+Files: data/Duncan.rda
+Documentation: man/Duncan.Rd
+  -> Duncan's Occupational Prestige Data
+
+Files: data/Ericksen.rda
+Documentation: man/Ericksen.Rd
+  -> The 1980 U.S. Census Undercount
+
+Files: data/Florida.rda
+Documentation: man/Florida.Rd
+  -> Florida County Voting
+
+Files: data/Freedman.rda
+Documentation: man/Freedman.Rd
+  -> Crowding and Crime in U. S. Metropolitan Areas
+
+Files: data/Friendly.rda
+Documentation: man/Friendly.Rd
+  -> Format Effects on Recall
+
+Files: data/Ginzberg.rda
+Documentation: man/Ginzberg.Rd
+  -> Data on Depression
+
+Files: data/Greene.rda
+Documentation: man/Greene.Rd
+  -> Refugee Appeals
+
+Files: data/Guyer.rda
+Documentation: man/Guyer.Rd
+  -> Anonymity and Cooperation
+
+Files: data/Hartnagel.rda
+Documentation: man/Hartnagel.Rd
+  -> Canadian Crime-Rates Time Series
+
+Files: data/Highway1.rda
+Documentation: man/Highway1.Rd
+  -> Highway Accidents
+
+Files: data/KosteckiDillon.rda
+Documentation: man/KosteckiDillon.Rd
+  -> Treatment of Migraine Headaches
+
+Files: data/Leinhardt.rda
+Documentation: man/Leinhardt.Rd
+  -> Data on Infant-Mortality
+
+Files: data/LoBD.rda
+Documentation: man/LoBD.Rd
+  -> Cancer drug data use to provide an example of the use of the skew power distributions.
+
+Files: data/Mandel.rda
+Documentation: man/Mandel.Rd
+  -> Contrived Collinear Data
+
+Files: data/Migration.rda
+Documentation: man/Migration.Rd
+  -> Canadian Interprovincial Migration Data
+
+Files: data/Moore.rda
+Documentation: man/Moore.Rd
+  -> Status, Authoritarianism, and Conformity
+
+Files: data/Mroz.rda
+Documentation: man/Mroz.Rd
+  -> U.S. Women's Labor-Force Participation
+
+Files: data/OBrienKaiser.rda
+Documentation: man/OBrienKaiser.Rd
+  -> O'Brien and Kaiser's Repeated-Measures Data
+
+Files: data/Ornstein.rda
+Documentation: man/Ornstein.Rd
+  -> Interlocking Directorates Among Major Canadian Firms
+
+Files: data/Pottery.rda
+Documentation: man/Pottery.Rd
+  -> Chemical Composition of Pottery
+
+Files: data/Prestige.rda
+Documentation: man/Prestige.Rd
+  -> Prestige of Canadian Occupations
+
+Files: data/Quartet.rda
+Documentation: man/Quartet.Rd
+  -> Four Regression Datasets
+
+Files: data/Robey.rda
+Documentation: man/Robey.Rd
+  -> Fertility and Contraception
+
+Files: data/Sahlins.rda
+Documentation: man/Sahlins.Rd
+  -> Agricultural Production in Mazulu Village
+
+Files: data/Salaries.rda
+Documentation: man/Salaries.Rd
+  -> Salaries for Professors
+
+Files: data/SLID.rda
+Documentation: man/SLID.Rd
+  -> Survey of Labour and Income Dynamics
+
+Files: data/Soils.rda
+Documentation: man/Soils.Rd
+  -> Soil Compositions of Physical and Chemical Characteristics
+
+Files: data/States.rda
+Documentation: man/States.Rd
+  -> Education and Related Statistics for the U.S. States
+
+Files: data/TitanicSurvival.rda
+Documentation: man/TitanicSurvival.Rd
+  -> Survival of Passengers on the Titanic
+
+Files: data/Transact.rda
+Documentation: man/Transact.Rd
+  -> Transaction data
+
+Files: data/UN.rda
+Documentation: man/UN.Rd
+  -> National Statistics from the United Nations, Mostly From 2009--2011
+
+Files: data/USPop.rda
+Documentation: man/USPop.Rd
+  -> Population of the United States
+
+Files: data/Vocab.rda
+Documentation: man/Vocab.Rd
+  -> Vocabulary and Education
+
+Files: data/WeightLoss.rda
+Documentation: man/WeightLoss.Rd
+  -> Weight Loss Data
+
+Files: data/Wells.rda
+Documentation: man/Wells.Rd
+  -> Well Switching in Bangladesh
+
+Files: data/Womenlf.rda
+Documentation: man/Womenlf.Rd
+  -> Canadian Women's Labour-Force Participation
+
+Files: data/Wong.rda
+Documentation: man/Wong.Rd
+  -> Post-Coma Recovery of IQ
+
+Files: data/Wool.rda
+Documentation: man/Wool.Rd
+  -> Wool data
+
+Files: data/WVS.rda
+Documentation: man/WVS.Rd
+  -> World Values Surveys
+                                    
+ -- Dirk Eddelbuettel <edd@debian.org>, Tue, 17 Oct 2017 21:42:06 -0500

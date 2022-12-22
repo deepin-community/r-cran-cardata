@@ -1,0 +1,57 @@
+This is the Debian GNU/Linux r-cran-cardata package of carData.  The
+carData package provides datasets for the R Companion to Applied
+Regression book. It was written by John Fox, Sanford Weisberg and Brad
+Price.
+
+This package was created by Dirk Eddelbuettel <edd@debian.org>.
+The sources were downloaded from the main CRAN site
+	http://cran.r-project.org/src/contrib/
+and are also available from all CRAN mirrors as e.g.
+	http://cran.us.r-project.org/src/contrib/
+
+The package was renamed from its upstream name 'carData' to
+'r-cran-cardata to fit the pattern of CRAN (and non-CRAN) packages
+for R.
+
+Files: *
+Copyright: 2017  John Fox, Sanford Weisberg and Brad Price
+License: GPL (>= 2)
+
+Files: debian/*
+Copyright: 2017  Dirk Eddelbuettel <edd@debian.org>
+License: GPL-2+
+
+On a Debian GNU/Linux system, the GPL license (version 2) is included
+in the file /usr/share/common-licenses/GPL-2.
+
+
+For reference, the upstream DESCRIPTION file is included below:
+
+   Package: carData
+   Version: 3.0-0
+   Date: 2017-08-18
+   Title: Companion to Applied Regression Data Sets
+   Authors@R: c(person("John", "Fox", role = c("aut", "cre"), email = "jfox@mcmaster.ca"),
+   	person("Sanford", "Weisberg", role = "aut", email = "sandy@umn.edu"),
+       person("Brad", "Price", role = "aut", email = "brad.price@mail.wvu.edu"))
+   Depends: R (>= 3.0)
+   LazyLoad: yes
+   LazyData: yes
+   Description: 
+     Datasets to Accompany J. Fox and S. Weisberg, 
+     An R Companion to Applied Regression, Third Edition, Sage (forthcoming).
+   License: GPL (>= 2)
+   URL: https://r-forge.r-project.org/projects/car/,
+           https://CRAN.R-project.org/package=carData,
+           http://socserv.socsci.mcmaster.ca/jfox/Books/Companion/index.html
+   Author: John Fox [aut, cre],
+     Sanford Weisberg [aut],
+     Brad Price [aut]
+   Maintainer: John Fox <jfox@mcmaster.ca>
+   Repository: CRAN
+   Repository/R-Forge/Project: car
+   Repository/R-Forge/Revision: 482
+   Repository/R-Forge/DateTimeStamp: 2017-08-27 16:26:39
+   Date/Publication: 2017-08-28 14:54:35 UTC
+   NeedsCompilation: no
+   Packaged: 2017-08-27 16:45:08 UTC; rforge

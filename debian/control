@@ -1,0 +1,16 @@
+Source: r-cran-cardata
+Section: gnu-r
+Priority: optional
+Maintainer: Dirk Eddelbuettel <edd@debian.org>
+Build-Depends: debhelper (>= 10), r-base-dev (>= 4.0.0), dh-r
+Standards-Version: 4.5.0
+Vcs-Browser: https://salsa.debian.org/edd/r-cran-cardata
+Vcs-Git: https://salsa.debian.org/edd/r-cran-cardata.git
+Homepage: https://cran.r-project.org/package=carData
+
+Package: r-cran-cardata
+Architecture: all
+Depends: ${misc:Depends}, ${R:Depends}
+Description: GNU R package for datasets for Companion to Applied Regression
+ The cardata package provides datasets to accompany J. Fox and S. Weisberg, 
+  An R Companion to Applied Regression, Third Edition, Sage (forthcoming).
